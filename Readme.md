@@ -1,6 +1,6 @@
 **Dynamic Clustering of Active Rings**
 
-**[Phys. Rev. Research xx, xxxx (2024)](https://journals.aps.org/prresearch/accepted/42078YcaYda1a287a33c3fc14cbec9c0e5a3f5206)**
+**[Phys. Rev. Research 6, L012038 (2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.L012038)**
 
 COM_rings.cpp: C++ code to calculate the center of mass of the rings. 
 
